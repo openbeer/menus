@@ -1,0 +1,341 @@
+################
+#  Känguruh
+#    Bürgerspitalgasse 20 // 1060 Wien
+#    www.kaenguruh-pub.at
+#  
+#  Öffnungszeiten: Mo bis Sa 18.00 - 02.00 Uhr
+#
+
+####
+#  Beer menu/list
+#    see www.kaenguruh-pub.at/bierkarte.html
+
+
+###########################
+##  Bier vom Fass 
+
+
+== Austria == 
+
+BrauSchneider Hanf Bier
+Gratzer Bräu Hermann,  dunkles           ##  Steiermark  
+Herzog Festbräu   
+Hofstettner Kübelbier,  zwickl   ## Oberösterreich 
+Hop Devil                        ##  Wien / Brewpub 1516 Brewing Company
+Storchenbräu Märzen
+
+##  Känguruh Bock    ## Hausbier => Bock vom Storchenbräu
+
+#######################
+## Helle Biere
+
+== Austria == 
+
+Huber Bräu             ## Tirol
+Schremser Roggen
+Storchenbräu Pils
+Uttendorf Fallstaff    ## Oberösterreich 
+
+ 
+################## 
+##  Weißbiere
+
+== Austria == 
+
+Storchenbräu Weizen
+
+== Deutschland == 
+
+Augustiner Weissbier 
+Kuchlbauer Alte Liebe
+Kuchlbauer Turmweisse
+Schneider Aventinus
+Schneider Hopfenweisse
+
+
+######################################
+## Spezialitäten aus Österreich
+
+== Austria == 
+
+- Herzog
+
+Herzog Das Herzliche Herbe
+Herzog Heidelbeer        ## radler ?? remove from list
+Herzog IPA
+Herzog Kaffeebier
+Herzog Kastanienbier
+Herzog Sauvignon Ale
+Herzog Schwesterator
+Herzog Stout
+
+- Trappistenkloster Engelszell
+
+Benno
+Gregorius
+
+- Hofstettner
+
+Hofstettner Honigbock
+
+ 
+### Spezialitäten aus Deutschland
+
+== Deutschland ==
+ 
+Aecht Schlenkerla Rauchbier Märzen
+Augustiner Edelstoff
+Ayinger Celebrator
+Crew India Pale Ale          # Crew Republic München (Crew AleWerkstatt)
+
+Lausitzer Erdbeer Porter      # Bergquell Brauerei Löbau
+Lausitzer Kirsch Porter       # Bergquell Brauerei Löbau
+
+Fürstlich Drehna Odin Trunk     # Schlossbrauerei Fürstlich Drehna
+
+Maisel & Friends Marc's Chocolate Bock
+Maisel & Friends Stefan's Indian Ale
+
+Tegernseer Spezial
+
+Zwiesel Dampfbier
+
+ 
+### Spezialitäten aus Holland
+
+== Netherlands ==
+ 
+La Trappe Isid'or
+La Trappe Quadrupel
+
+
+### Spezialitäten aus United Kingdom & Ireland
+
+== Ireland ==
+
+Guinness Special Export
+
+== England == 
+
+St. Peter's Cream Stout
+St. Peter's Honey Porter
+St. Peter's IPA
+St. Peter's Old Style Porter
+St. Peter's The Saints
+St. Peter's Winter Ale
+ 
+### Spezialitäten aus Belgien
+
+== Belgium == 
+ 
+Abbaye de Floreffe Prima Melior
+Abbaye des Rocs Brune
+
+Achel Blonde
+Achel Brune
+
+Affligem Dubbel
+Anker Boscoulis
+Arabier
+Arend Tripel
+Augustijn Dark
+Barbár Bok
+
+Bière du Boucanier Dark Ale
+Bière du Boucanier Golden Ale
+Bière du Boucanier Red Ale
+Bière du Corsaire
+
+Bink Bloesem
+Bink Tripel
+
+Blanche de Namur
+
+Boelens Dubbel Klok
+Boelens Tripel Klok
+Boelens Waase Wolf
+
+Boon Framboise
+Boon Kriek
+Boon Mariage Parfait
+
+Bornem Dubbel
+
+Brigand
+
+Brugse Zot Blond
+
+Brugse Zot Dubbel
+
+Bush Ambrée
+Bush Peche Mel
+
+Cantillon Grand Cru Bruocsella
+Cantillon Gueuze
+Cantillon Rosé de Gambrinus
+
+Caracole
+
+Chimay Bleue
+Chimay Rouge
+
+Chouffe Houblon
+
+Cookie Beer
+
+Corsendonk Agnus Dei
+Corsendonk Pater Noster
+
+Cuvée Des Trolls
+
+Delirium Nocturnum
+Delirium Red
+Delirium Tremens
+
+De Graal Quest
+De Graal Gember
+De Graal Tripel
+
+De Verboden Vrucht
+Diabolici
+Dolle Brouwers Extra Stout
+Dominus Triple
+Drie Fonteinen Oude Geuze
+Dulle Teve
+
+Duvel
+Duvel Triple Hop
+
+Ename Tripel
+
+Floris Apple
+Floris Chocolate
+Floris Fraise
+Floris Honey
+Floris Mango
+Floris Ninkeberry
+
+Gauloise Brune
+Gauloise Fruits Rouge
+
+Gordon Finest Gold
+Gordon Finest Platinum
+Gordon Finest Red
+Gordon Finest Scotch Ale
+Gouden Carolus Classic
+Gouden Carolus Cuvée Van De Keizer Blauw
+Gouden Carolus Hopsinjoor
+Gouden Carolus Tripel
+
+Grimbergen Optimo Bruno
+Grimbergen Triple
+Grottenbier
+
+Gruut Blond
+Gruut Bruin
+Gruut Inferno
+Gruut Wit
+
+Gulden Draak
+Gulden Draak 9000
+
+Hop-Ruiter
+Hopus
+
+Karmeliet Tripel
+
+Kasteel Cuvée du Chateau
+Kasteel Donker
+Kasteel Rouge
+Kasteel Triple
+
+Keizer Karel Goud Blond
+
+Kempisch Vuur 3-Dubbel
+Kempisch Vuur Jenever
+Kempisch Vuur Tripel
+
+Kwak
+
+La Chouffe
+La Corne Blond
+La Corne Triple
+La Divine
+La Penneffoise
+
+Lamme Goedzak
+Leute Bokbier
+
+Liefmans Cuvée Brut
+Liefmans Goudenband
+
+Lindemans Appel
+Lindemans Cassis
+Lindemans Cuvée René
+Lindemans Faro
+Lindemans Framboise
+Lindemans Kriek
+Lindemans Pecheresse
+
+Loterbol Bruin
+Lucifer
+
+Malheur 10
+Malheur 12
+
+Maredsous Tripel
+
+Martin's IPA
+Martin's Pale Ale
+
+Mc Douglas Scotch Ale
+
+Moeder Overste
+Mongozo Banana
+Mongozo Coconut
+
+Nostradamus
+Oesterstout
+Orval
+
+Oud Beersel Oude Geuze
+Oud Beersel Oude Kriek
+
+Petrus Oud Bruin
+Pilaarbijter Blonde
+Piraat
+Rochefort 8
+Rodenbach Caractére Rouge
+Rodenbach Grand Cru
+Saxo
+Slaapmutske Bruin
+Slaapmutske Tripel
+Sloeber
+Steenbrugge Tripel
+
+St. Bernardus Abt 12
+St. Feuillien Grand Cru
+St. Feuillien Tripel
+
+St. Paul Double
+St. Paul Triple
+
+Straffe Hendrik Quadrupel
+
+Ter Dolen Blond
+Ter Dolen Donker
+Ter Dolen Tripel
+
+Tongerlo Blond
+Tongerlo Brune
+Troubadour Magma
+
+Ultradélice
+Ultramoure
+Urthel Hop-it
+Urthel Saisonniere
+Urthel Samaranth
+
+Val-Dieu Grand Cru
+Westmalle Tripel
+Zeezuiper
