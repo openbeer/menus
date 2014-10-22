@@ -1,0 +1,103 @@
+##############################
+# Krah Krah
+#  1010 Wien // Rabensteig 8
+#   www.krah-krah.at
+#
+# Öffnungszeiten - täglich von 11.00 - 02.00 Uhr 
+
+### Bier vom Fass
+
+  # Krah-Bier  - hauseigenes Bier
+
+ == Austria ==
+Stiegl Pils
+Grieskirchner Dunkel
+Ottakringer Pils
+Ottakringer Zwickl
+Trumer Pils
+
+ == Deutschland == 
+Erdinger Hefe
+
+  == Czech Republic ==
+Budweiser
+
+### Flaschenbiere aus Österreich
+
+  == Austria ==
+
+Wieselburger Gold
+Raschhofer Zwickl
+Weitra Bräu
+Zwettler Original 1890
+Schladminger Vollbier
+Murauer Pils
+Hirter Privat Pils
+  # Raben Original  - hauseigenes Bier aus dem Burgenland ? 
+
+### Exportbiere
+
+  == Deutschland ==
+
+Hacker-Pschorr Anno 1417
+Augustiner Bräu Edelstoff
+Löwenbräu Münchner Helles
+Thurn & Taxis Pils
+Becks Pils
+
+  == Czech Republic ==
+Pilsner Urquell
+
+  == Netherlands == 
+Heineken Export
+
+### Bockbiere
+
+  == Austria ==
+Zwettler Kuenringer Festbock
+  == Czech Republic ==
+Budweiser Strong Bockbier
+
+### Braune und dunkle Biere
+
+  == Austria ==
+Hirter Morchel
+Murauer Doppelmalz
+Hirter 1270
+Hadmar Bio
+Schremser Bio Roggen
+
+  == Deutschland == 
+König Ludwig
+  == Czech Republic ==
+Budweiser Budvar Dark
+
+### Weißbiere
+
+  == Austria ==
+Stiegl Weisse Naturtrüb
+
+  == Deutschland == 
+Schneider Weisse
+Erdinger Kristall
+Pschorr Braurösl Weiße Hefetrüb
+Franziskaner Hefeweizen
+Paulaner Hefe Dunkel
+Andechs Hefe Hell
+Maisel's Weisse
+
+### Bier Spezialitäten
+
+  == Deutschland == 
+Kulmbach EKU 28
+  == Netherlands == 
+Grolsch Premium Pils
+  == Belgium ==
+Hoegaarden
+  == Italy ==
+Moretti
+  == Ireland == 
+Guinness
+  == Mexiko ==
+Corona
+

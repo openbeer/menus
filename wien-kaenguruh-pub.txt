@@ -1,7 +1,7 @@
 ################
 #  Känguruh
-#    Bürgerspitalgasse 20 // 1060 Wien
-#    www.kaenguruh-pub.at
+#    1060 Wien // Bürgerspitalgasse 20
+#     www.kaenguruh-pub.at
 #  
 #  Öffnungszeiten: Mo bis Sa 18.00 - 02.00 Uhr
 #
